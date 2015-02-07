@@ -1,0 +1,30 @@
+[0117/213735:INFO:(0)] WebCore is now online.
+[0117/213735:INFO:(0)] Running Awesomium 1.7.5.0
+[0117/213751:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+   bei System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   bei Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   bei Awesomium.Core.WebCore.wQrBKtHAGh()
+[0117/214042:INFO:(0)] WebCore is now online.
+[0117/214042:INFO:(0)] Running Awesomium 1.7.5.0
+[0117/214340:INFO:(0)] WebCore is now online.
+[0117/214340:INFO:(0)] Running Awesomium 1.7.5.0
+[0117/214438:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+   bei System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   bei Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   bei Awesomium.Core.WebCore.wQrBKtHAGh()
+[0117/214925:INFO:(0)] WebCore is now online.
+[0117/214925:INFO:(0)] Running Awesomium 1.7.5.0
+[0117/214930:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+   bei System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   bei Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   bei Awesomium.Core.WebCore.wQrBKtHAGh()
+[0117/215001:INFO:(0)] WebCore is now online.
+[0117/215001:INFO:(0)] Running Awesomium 1.7.5.0
+[0117/215027:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: Fehler beim Aufrufen der Methode. Der Zielthread ist nicht mehr vorhanden.
+   bei System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   bei Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   bei Awesomium.Core.WebCore.wQrBKtHAGh()
+[0117/215551:INFO:(0)] WebCore is now online.
+[0117/215551:INFO:(0)] Running Awesomium 1.7.5.0
+[0117/215619:INFO:(0)] WebCore is now online.
+[0117/215619:INFO:(0)] Running Awesomium 1.7.5.0

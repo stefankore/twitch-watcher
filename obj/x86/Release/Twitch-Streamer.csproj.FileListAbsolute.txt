@@ -1,0 +1,10 @@
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\obj\x86\Release\Twitch-Streamer.csproj.GenerateResource.Cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\bin\x86\Release\Twitch Watcher.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\bin\x86\Release\Twitch Watcher.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\obj\x86\Release\Twitch_Watcher.Properties.Resources.resources
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\obj\x86\Release\Twitch Watcher.exe
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\obj\x86\Release\Twitch Watcher.pdb
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\obj\x86\Release\Twitch-Streamer.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Stefan\Documents\Visual Studio 2013\Projects\Twitch-Streamer\obj\x86\Release\Twitch_Watcher.Hauptfenster.resources

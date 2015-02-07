@@ -1,0 +1,9 @@
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\bin\Debug\Twitch-Streamer.exe.config
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\bin\Debug\Twitch-Streamer.exe
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\bin\Debug\Twitch-Streamer.pdb
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\obj\Debug\Twitch-Streamer.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\obj\Debug\Twitch_Streamer.Form1.resources
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\obj\Debug\Twitch_Streamer.Properties.Resources.resources
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\obj\Debug\Twitch-Streamer.csproj.GenerateResource.Cache
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\obj\Debug\Twitch-Streamer.exe
+c:\users\stefan\documents\visual studio 2013\Projects\Twitch-Streamer\obj\Debug\Twitch-Streamer.pdb
